@@ -1,3 +1,3 @@
 # MY_learning 
 
-this is my first repository
+this is my first repository(hi)
